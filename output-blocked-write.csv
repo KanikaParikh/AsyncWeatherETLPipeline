@@ -1,0 +1,10 @@
+city,temp_celsius,feels_like_temp,humidity,humidity_level,wind_speed,is_rainy,weather_score,aqi,aqi_open_meteo,description,timestamp,source
+London,14.42,13.46,59,moderate,2.68,False,10,NA,5.7,Clear sky,2025-05-10T21:38:06.422698,api
+London,15.0,15.0,65,moderate,4.2,True,6,NA,NA,Light rain,2025-05-03T18:34:54.764935,csv
+Mumbai,28.99,33.47,74,high,2.06,False,10,NA,23.7,Haze,2025-05-10T21:38:06.424201,api
+Mumbai,30.0,37.67,80,high,2.5,False,10,NA,NA,Haze,2025-05-03T18:34:54.764935,csv
+New York,23.18,22.23,26,low,9.39,False,7,NA,14.3,Clear sky,2025-05-10T21:38:06.421404,api
+New York,19.0,19.0,70,moderate,3.8,False,10,NA,NA,Clear sky,2025-05-03T18:34:54.764935,csv
+Tokyo,17.18,17.41,94,high,2.57,False,8,NA,31.3,Broken clouds,2025-05-10T21:38:06.418092,api
+Tokyo,16.0,16.0,60,moderate,5.1,False,10,NA,NA,Broken clouds,2025-05-03T18:34:54.764935,csv
+-- no appending/writing permissions -- for testing purpose--

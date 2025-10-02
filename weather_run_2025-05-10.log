@@ -1,0 +1,46 @@
+2025-05-10 18:00:18,311 INFO: Fetching weather for London from API
+2025-05-10 18:00:18,314 INFO: Fetching weather for New York from API
+2025-05-10 18:00:18,315 INFO: Fetching weather for Mumbai from API
+2025-05-10 18:00:18,315 INFO: Fetching weather for Tokyo from API
+2025-05-10 18:00:18,316 INFO: Fetching weather for London from CSV
+2025-05-10 18:00:18,317 INFO: Fetching weather for New York from CSV
+2025-05-10 18:00:18,318 INFO: Fetching weather for Mumbai from CSV
+2025-05-10 18:00:18,319 INFO: Fetching weather for Tokyo from CSV
+2025-05-10 18:00:18,319 INFO: Fetching air quality for London from OpenAQ
+2025-05-10 18:00:18,486 ERROR: OpenAQ API error for London: Status 410
+2025-05-10 18:00:18,487 INFO: Fetching air quality for New York from OpenAQ
+2025-05-10 18:00:18,507 ERROR: OpenAQ API error for New York: Status 410
+2025-05-10 18:00:18,508 INFO: Fetching air quality for Mumbai from OpenAQ
+2025-05-10 18:00:18,547 ERROR: OpenAQ API error for Mumbai: Status 410
+2025-05-10 18:00:18,548 INFO: Fetching air quality for Tokyo from OpenAQ
+2025-05-10 18:00:18,571 ERROR: OpenAQ API error for Tokyo: Status 410
+2025-05-10 18:00:18,572 INFO: Fetching air quality for London from Open-Meteo
+2025-05-10 18:00:18,857 INFO: Fetching air quality for New York from Open-Meteo
+2025-05-10 18:00:18,858 INFO: Fetching air quality for Mumbai from Open-Meteo
+2025-05-10 18:00:19,230 INFO: Fetching air quality for Tokyo from Open-Meteo
+2025-05-10 18:00:19,577 INFO: Appended DataFrame to transformed_output.csv
+2025-05-10 18:00:19,602 INFO: Printed DataFrame to console
+2025-05-10 18:00:19,604 ERROR: Failed to save DataFrame to blocked file output-blocked-write.csv: [Errno 13] Permission denied: 'output-blocked-write.csv'
+2025-05-10 18:00:58,252 INFO: Fetching weather for London from API
+2025-05-10 18:00:58,255 INFO: Fetching weather for New York from API
+2025-05-10 18:00:58,256 INFO: Fetching weather for Mumbai from API
+2025-05-10 18:00:58,256 INFO: Fetching weather for Tokyo from API
+2025-05-10 18:00:58,257 INFO: Fetching weather for London from CSV
+2025-05-10 18:00:58,259 INFO: Fetching weather for New York from CSV
+2025-05-10 18:00:58,260 INFO: Fetching weather for Mumbai from CSV
+2025-05-10 18:00:58,261 INFO: Fetching weather for Tokyo from CSV
+2025-05-10 18:00:58,262 INFO: Fetching air quality for London from OpenAQ
+2025-05-10 18:00:58,342 ERROR: OpenAQ API error for London: Status 410
+2025-05-10 18:00:58,342 INFO: Fetching air quality for New York from OpenAQ
+2025-05-10 18:00:58,350 ERROR: OpenAQ API error for New York: Status 410
+2025-05-10 18:00:58,350 INFO: Fetching air quality for Mumbai from OpenAQ
+2025-05-10 18:00:58,359 ERROR: OpenAQ API error for Mumbai: Status 410
+2025-05-10 18:00:58,359 INFO: Fetching air quality for Tokyo from OpenAQ
+2025-05-10 18:00:58,367 ERROR: OpenAQ API error for Tokyo: Status 410
+2025-05-10 18:00:58,368 INFO: Fetching air quality for London from Open-Meteo
+2025-05-10 18:00:58,385 INFO: Fetching air quality for New York from Open-Meteo
+2025-05-10 18:00:58,406 INFO: Fetching air quality for Mumbai from Open-Meteo
+2025-05-10 18:00:58,856 INFO: Fetching air quality for Tokyo from Open-Meteo
+2025-05-10 18:01:01,436 INFO: Appended DataFrame to transformed_output.csv
+2025-05-10 18:01:01,447 INFO: Printed DataFrame to console
+2025-05-10 18:01:01,448 ERROR: Failed to save DataFrame to blocked file output-blocked-write.csv: [Errno 13] Permission denied: 'output-blocked-write.csv'

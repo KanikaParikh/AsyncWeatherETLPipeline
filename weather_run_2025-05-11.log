@@ -1,0 +1,83 @@
+2025-05-11 17:40:34,101 INFO: Fetching weather for London from API
+2025-05-11 17:40:34,105 INFO: Fetching weather for New York from API
+2025-05-11 17:40:34,105 INFO: Fetching weather for Mumbai from API
+2025-05-11 17:40:34,106 INFO: Fetching weather for Toronto from API
+2025-05-11 17:40:34,106 INFO: Fetching weather for Tokyo from API
+2025-05-11 17:40:34,328 INFO: Fetching weather for Paris from API
+2025-05-11 17:40:34,343 INFO: Fetching weather for Sydney from API
+2025-05-11 17:40:34,343 INFO: Fetching weather for Cape Town from API
+2025-05-11 17:40:34,352 INFO: Fetching weather for São Paulo from API
+2025-05-11 17:40:34,376 INFO: Fetching weather for Moscow from API
+2025-05-11 17:40:34,378 INFO: Fetching weather for Beijing from API
+2025-05-11 17:40:34,379 INFO: Fetching weather for Seoul from API
+2025-05-11 17:40:34,380 INFO: Fetching weather for Dubai from API
+2025-05-11 17:40:34,457 INFO: Fetching weather for Bangkok from API
+2025-05-11 17:40:34,457 INFO: Fetching weather for Mexico City from API
+2025-05-11 17:40:34,458 INFO: Fetching weather for Istanbul from API
+2025-05-11 17:40:34,459 INFO: Fetching weather for Berlin from API
+2025-05-11 17:40:34,459 INFO: Fetching weather for Singapore from API
+2025-05-11 17:40:34,558 INFO: Fetching weather for Los Angeles from API
+2025-05-11 17:40:34,558 INFO: Fetching weather for Rome from API
+2025-05-11 17:40:34,559 INFO: Fetching air quality for London from OpenAQ
+2025-05-11 17:40:34,559 INFO: Fetching air quality for New York from OpenAQ
+2025-05-11 17:40:34,559 INFO: Fetching air quality for Mumbai from OpenAQ
+2025-05-11 17:40:34,615 INFO: Fetching air quality for Toronto from OpenAQ
+2025-05-11 17:40:34,615 INFO: Fetching air quality for Tokyo from OpenAQ
+2025-05-11 17:40:34,659 ERROR: OpenAQ API error for Mumbai: Status 410
+2025-05-11 17:40:34,659 INFO: Fetching air quality for Paris from OpenAQ
+2025-05-11 17:40:34,661 ERROR: OpenAQ API error for Tokyo: Status 410
+2025-05-11 17:40:34,661 INFO: Fetching air quality for Sydney from OpenAQ
+2025-05-11 17:40:34,664 ERROR: OpenAQ API error for London: Status 410
+2025-05-11 17:40:34,665 ERROR: OpenAQ API error for Toronto: Status 410
+2025-05-11 17:40:34,665 INFO: Fetching air quality for Cape Town from OpenAQ
+2025-05-11 17:40:34,665 INFO: Fetching air quality for São Paulo from OpenAQ
+2025-05-11 17:40:34,666 ERROR: OpenAQ API error for New York: Status 410
+2025-05-11 17:40:34,667 ERROR: OpenAQ API error for Paris: Status 410
+2025-05-11 17:40:34,667 INFO: Fetching air quality for Moscow from OpenAQ
+2025-05-11 17:40:34,667 INFO: Fetching air quality for Beijing from OpenAQ
+2025-05-11 17:40:34,672 ERROR: OpenAQ API error for São Paulo: Status 410
+2025-05-11 17:40:34,672 ERROR: OpenAQ API error for Sydney: Status 410
+2025-05-11 17:40:34,673 ERROR: OpenAQ API error for Cape Town: Status 410
+2025-05-11 17:40:34,673 INFO: Fetching air quality for Seoul from OpenAQ
+2025-05-11 17:40:34,673 INFO: Fetching air quality for Dubai from OpenAQ
+2025-05-11 17:40:34,673 INFO: Fetching air quality for Bangkok from OpenAQ
+2025-05-11 17:40:34,674 ERROR: OpenAQ API error for Moscow: Status 410
+2025-05-11 17:40:34,675 ERROR: OpenAQ API error for Beijing: Status 410
+2025-05-11 17:40:34,675 INFO: Fetching air quality for Mexico City from OpenAQ
+2025-05-11 17:40:34,675 INFO: Fetching air quality for Istanbul from OpenAQ
+2025-05-11 17:40:34,682 ERROR: OpenAQ API error for Bangkok: Status 410
+2025-05-11 17:40:34,683 ERROR: OpenAQ API error for Istanbul: Status 410
+2025-05-11 17:40:34,683 INFO: Fetching air quality for Berlin from OpenAQ
+2025-05-11 17:40:34,684 INFO: Fetching air quality for Singapore from OpenAQ
+2025-05-11 17:40:34,684 ERROR: OpenAQ API error for Seoul: Status 410
+2025-05-11 17:40:34,684 ERROR: OpenAQ API error for Mexico City: Status 410
+2025-05-11 17:40:34,685 ERROR: OpenAQ API error for Dubai: Status 410
+2025-05-11 17:40:34,685 INFO: Fetching air quality for Los Angeles from OpenAQ
+2025-05-11 17:40:34,685 INFO: Fetching air quality for Rome from OpenAQ
+2025-05-11 17:40:34,685 INFO: Fetching air quality for London from Open-Meteo
+2025-05-11 17:40:34,689 ERROR: OpenAQ API error for Berlin: Status 410
+2025-05-11 17:40:34,689 ERROR: OpenAQ API error for Singapore: Status 410
+2025-05-11 17:40:34,689 INFO: Fetching air quality for New York from Open-Meteo
+2025-05-11 17:40:34,689 INFO: Fetching air quality for Mumbai from Open-Meteo
+2025-05-11 17:40:34,693 ERROR: OpenAQ API error for Los Angeles: Status 410
+2025-05-11 17:40:34,693 INFO: Fetching air quality for Toronto from Open-Meteo
+2025-05-11 17:40:34,696 ERROR: OpenAQ API error for Rome: Status 410
+2025-05-11 17:40:34,696 INFO: Fetching air quality for Tokyo from Open-Meteo
+2025-05-11 17:40:35,479 INFO: Fetching air quality for Paris from Open-Meteo
+2025-05-11 17:40:35,479 INFO: Fetching air quality for Sydney from Open-Meteo
+2025-05-11 17:40:35,480 ERROR: No coordinates found for city: Cape Town
+2025-05-11 17:40:35,480 INFO: Fetching air quality for São Paulo from Open-Meteo
+2025-05-11 17:40:35,481 INFO: Fetching air quality for Moscow from Open-Meteo
+2025-05-11 17:40:35,481 INFO: Fetching air quality for Beijing from Open-Meteo
+2025-05-11 17:40:35,597 INFO: Fetching air quality for Seoul from Open-Meteo
+2025-05-11 17:40:35,604 INFO: Fetching air quality for Dubai from Open-Meteo
+2025-05-11 17:40:35,611 ERROR: No coordinates found for city: Bangkok
+2025-05-11 17:40:35,611 INFO: Fetching air quality for Mexico City from Open-Meteo
+2025-05-11 17:40:35,613 INFO: Fetching air quality for Istanbul from Open-Meteo
+2025-05-11 17:40:35,615 INFO: Fetching air quality for Berlin from Open-Meteo
+2025-05-11 17:40:35,720 INFO: Fetching air quality for Singapore from Open-Meteo
+2025-05-11 17:40:35,734 INFO: Fetching air quality for Los Angeles from Open-Meteo
+2025-05-11 17:40:35,746 ERROR: No coordinates found for city: Rome
+2025-05-11 17:40:35,897 INFO: Appended DataFrame to transformed_output.csv
+2025-05-11 17:40:35,929 INFO: Printed DataFrame to console
+2025-05-11 17:40:35,931 ERROR: Failed to save DataFrame to blocked file output-blocked-write.csv: [Errno 13] Permission denied: 'output-blocked-write.csv'

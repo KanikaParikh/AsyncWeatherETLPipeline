@@ -1,0 +1,61 @@
+city,temp_k,humidity,wind_speed,description,timestamp,source
+London,288.15,65,4.2,light rain,2025-05-07T03:18:44.153284,local-csv
+New York,292.15,70,3.8,clear sky,2025-05-07T10:43:59.914287,local-csv
+Mumbai,303.15,80,2.5,haze,2025-05-07T17:27:12.472394,local-csv
+Toronto,287.55,68,4.0,scattered clouds,2025-05-07T22:05:00.309182,local-csv
+Tokyo,289.15,60,5.1,broken clouds,2025-05-07T08:14:33.781245,local-csv
+Paris,290.25,64,3.6,overcast clouds,2025-05-07T13:01:21.004582,local-csv
+Sydney,285.65,59,5.4,light rain,2025-05-07T02:47:58.623971,local-csv
+Cape Town,289.45,58,6.2,clear sky,2025-05-07T06:56:39.918430,local-csv
+São Paulo,295.35,75,2.9,moderate rain,2025-05-07T11:12:07.357229,local-csv
+Moscow,283.15,70,3.5,cloudy,2025-05-07T04:22:41.700012,local-csv
+Beijing,291.85,60,4.1,haze,2025-05-07T15:30:28.588634,local-csv
+Seoul,289.95,65,3.3,few clouds,2025-05-07T20:49:50.423584,local-csv
+Dubai,310.15,30,2.8,clear sky,2025-05-07T09:38:15.001483,local-csv
+Bangkok,304.25,76,1.5,thunderstorm,2025-05-07T18:59:12.711349,local-csv
+Mexico City,293.45,60,3.6,light rain,2025-05-07T07:27:44.804199,local-csv
+Istanbul,288.75,66,4.0,shower rain,2025-05-07T05:43:35.118548,local-csv
+Berlin,287.15,67,3.9,mist,2025-05-07T16:22:09.550017,local-csv
+Singapore,299.85,84,1.2,few clouds,2025-05-07T19:48:03.993281,local-csv
+Los Angeles,294.15,58,3.1,clear sky,2025-05-07T12:31:57.874529,local-csv
+Rome,291.55,62,2.7,broken clouds,2025-05-07T21:44:39.130552,local-csv
+London,289.05,63,4.5,few clouds,2025-05-08T14:07:22.178932,local-csv
+New York,293.15,72,3.9,scattered clouds,2025-05-08T02:36:48.236721,local-csv
+Mumbai,304.05,82,2.3,humid,2025-05-08T11:10:01.409861,local-csv
+Toronto,288.25,66,3.8,light rain,2025-05-08T07:58:17.803491,local-csv
+Tokyo,289.85,61,4.8,sunny,2025-05-08T16:33:00.237920,local-csv
+Paris,291.05,60,3.2,light clouds,2025-05-08T05:11:13.574320,local-csv
+Sydney,286.55,57,4.9,windy,2025-05-08T19:28:34.374157,local-csv
+Cape Town,290.25,56,5.7,clear sky,2025-05-08T03:14:28.127649,local-csv
+São Paulo,296.55,78,3.1,light rain,2025-05-08T10:47:53.981032,local-csv
+Moscow,284.35,72,3.3,overcast clouds,2025-05-08T12:05:19.607518,local-csv
+Beijing,292.45,62,3.8,smoke,2025-05-08T18:16:11.082713,local-csv
+Seoul,290.35,63,3.1,clear sky,2025-05-08T20:29:23.229640,local-csv
+Dubai,311.25,28,2.4,sunny,2025-05-08T09:54:36.149835,local-csv
+Bangkok,305.05,78,1.7,humid,2025-05-08T13:33:48.582139,local-csv
+Mexico City,294.25,62,3.4,partly cloudy,2025-05-08T06:39:42.615209,local-csv
+Istanbul,289.55,65,4.1,drizzle,2025-05-08T04:45:15.448118,local-csv
+Berlin,288.35,66,3.7,mist,2025-05-08T17:18:04.341777,local-csv
+Singapore,300.25,83,1.0,thunderstorm,2025-05-08T15:03:36.800715,local-csv
+Los Angeles,295.05,57,2.9,clear sky,2025-05-08T08:44:27.107104,local-csv
+Rome,292.35,61,2.5,broken clouds,2025-05-08T22:55:51.024890,local-csv
+London,287.95,67,3.9,light drizzle,2025-05-09T13:11:21.812909,local-csv
+New York,294.05,71,3.6,partly cloudy,2025-05-09T11:15:17.015726,local-csv
+Mumbai,305.35,81,2.2,fog,2025-05-09T10:39:31.141029,local-csv
+Toronto,289.15,64,3.5,clear sky,2025-05-09T07:33:28.607431,local-csv
+Tokyo,290.15,62,4.5,sunny,2025-05-09T14:01:03.909456,local-csv
+Paris,291.75,59,3.0,scattered clouds,2025-05-09T02:21:44.364827,local-csv
+Sydney,287.15,56,4.6,windy,2025-05-09T03:59:22.984401,local-csv
+Cape Town,291.05,57,5.1,clear sky,2025-05-09T12:28:45.786435,local-csv
+São Paulo,297.15,76,3.0,shower rain,2025-05-09T09:12:37.358794,local-csv
+Moscow,285.25,74,3.6,overcast clouds,2025-05-09T05:06:58.320163,local-csv
+Beijing,293.15,63,3.7,haze,2025-05-09T18:41:10.174821,local-csv
+Seoul,291.15,64,2.9,clear sky,2025-05-09T20:17:11.972341,local-csv
+Dubai,312.05,27,2.6,clear sky,2025-05-09T04:33:33.652378,local-csv
+Bangkok,305.85,77,1.4,humid,2025-05-09T16:58:49.701094,local-csv
+Mexico City,295.05,63,3.5,light rain,2025-05-09T06:03:36.291408,local-csv
+Istanbul,290.35,64,3.8,shower rain,2025-05-09T08:21:24.429904,local-csv
+Berlin,289.15,65,3.4,few clouds,2025-05-09T19:46:30.214951,local-csv
+Singapore,300.95,82,0.9,thunderstorm,2025-05-09T17:23:13.608713,local-csv
+Los Angeles,295.95,56,3.0,clear sky,2025-05-09T12:39:57.122014,local-csv
+Rome,293.15,60,2.3,clear sky,2025-05-09T21:08:40.117845,local-csv
